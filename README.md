@@ -1,3 +1,3 @@
 # JavaScript Basics
 
-SoftUni 
+My homeworks | SoftUni | Programming basics 
