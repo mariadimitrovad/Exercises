@@ -1,2 +1,3 @@
 # Exercises
-My exercises 
+
+SoftUni 
